@@ -1,3 +1,5 @@
+[![dockeri.co](https://dockeri.co/image/fboaventura/lab-node-frontend)](https://hub.docker.com/r/fboaventura/lab-node-frontend)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
